@@ -1,0 +1,15 @@
+{
+  "name": "primis-for-github",
+  "version": "1.0.0",
+  "description": "A marketplace for construction professionals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Kashif Imran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
